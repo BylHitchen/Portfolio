@@ -17,7 +17,8 @@ As my expertise grows and I delve deeper into more advanced topics, I’ll be ro
 Let’s get started
 
 
-### Project 1 Python for Beginners: Variables and Strings
+### Project 1 
+### Python for Beginners: Variables and Strings
 
 - **Understanding Python Lists**: Grasping the fundamentals of lists and their uses.
 - **Working with Python Sets and Tuples**: Learning to effectively use sets and tuples for various tasks.
