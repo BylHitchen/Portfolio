@@ -12,7 +12,7 @@ I’m committed to advancing my skills and becoming proficient in data analysis.
 # Projects
 As I’m currently navigating the world of data analysis through Coursera courses, you will primarily find projects here that reflect the foundational skills I’ve acquired so far. These projects are designed to showcase the learnings I’ve already absorbed.
 
-As my expertise grows and I delve deeper into more advanced topics, I’ll be rolling out my own original projects for everyone to explore. There’s a lot more to come as I transition from a learner to a data enthusiast ready to make an impact.
+As my expertise grows and I delve deeper into more advanced topics, I’ll be rolling out my own original projects for everyone to explore. There’s a lot more to come as I transition from a learner to a data enthusiast.
 
 Let’s get started!
 
