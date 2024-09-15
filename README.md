@@ -14,7 +14,7 @@ As I’m currently navigating the world of data analysis through Coursera course
 
 As my expertise grows and I delve deeper into more advanced topics, I’ll be rolling out my own original projects for everyone to explore. There’s a lot more to come as I transition from a learner to a data enthusiast ready to make an impact.
 
-Let’s get started
+Let’s get started!
 
 
 ### Project 1 
