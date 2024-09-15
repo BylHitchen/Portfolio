@@ -23,7 +23,7 @@ Let’s get started
 - **Understanding Python Lists**: Grasping the fundamentals of lists and their uses.
 
 <video width="560" height="315" controls>
-  <source src="https://github.com/BylHitchen/Portfolio/blob/main/2024-09-15%2020-51-38.mp4" type="video/mp4">
+  <source src="https://github.com/BylHitchen/Portfolio/raw/main/2024-09-15%2020-51-38.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
