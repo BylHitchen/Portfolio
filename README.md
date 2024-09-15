@@ -18,7 +18,7 @@ Let’s get started
 
 
 ### Project 1 Python for Beginners: Variables and Strings
-#### Learnings:
+
 - **Understanding Python Lists**: Grasping the fundamentals of lists and their uses.
 - **Working with Python Sets and Tuples**: Learning to effectively use sets and tuples for various tasks.
 - **Creating and Modifying Dictionaries**: Building dictionaries and manipulating their elements.
