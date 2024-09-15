@@ -18,20 +18,21 @@ Let’s get started
 
 
 ### Project 1 Python for Beginners: Variables and Strings
-##### Learnings:
-- **Understanding Python Lists**: Grasping the fundamentals of lists and their uses.
+#### Learnings:
+- <span style="font-size: 10px; font-weight: bold;">Understanding Python Lists</span>: Grasping the fundamentals of lists and their uses.
 
-- **Working with Python Sets and Tuples**: Learning to effectively use sets and tuples for various tasks.
+- <span style="font-size: 10px; font-weight: bold;">Working with Python Sets and Tuples</span>: Learning to effectively use sets and tuples for various tasks.
 
-- **Creating and Modifying Dictionaries**: Building dictionaries and manipulating their elements.
+- <span style="font-size: 10px; font-weight: bold;">Creating and Modifying Dictionaries</span>: Building dictionaries and manipulating their elements.
 
-- **Practice Task - Filtering Lists of Dictionaries**: Applying techniques to filter and process lists containing dictionaries.
+- <span style="font-size: 10px; font-weight: bold;">Practice Task - Filtering Lists of Dictionaries</span>: Applying techniques to filter and process lists containing dictionaries.
 
-- **Data Manipulation for Analysis**: Transforming and preparing data for comprehensive analysis.
+- <span style="font-size: 10px; font-weight: bold;">Data Manipulation for Analysis</span>: Transforming and preparing data for comprehensive analysis.
 
-- **Visualizing Data with Python**: Utilising Python methods to create data visualizations.
+- <span style="font-size: 10px; font-weight: bold;">Visualizing Data with Python</span>: Utilizing Python methods to create data visualizations.
 
-- **Challenge - Food Recommendations**: Applying learned concepts to develop a food recommendation system.
+- <span style="font-size: 10px; font-weight: bold;">Challenge - Food Recommendations</span>: Applying learned concepts to develop a food recommendation system.
+
 
 
 
