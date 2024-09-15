@@ -21,6 +21,9 @@ Let’s get started!
 ### Python for Beginners: Variables and Strings
 
 - **Understanding Python Lists**: Grasping the fundamentals of lists and their uses.
+  <video width="640" height="480" controls>
+        <source src="your-video-file.mp4" type="video/mp4">
+        Your browser does not support the video tag.
 - **Working with Python Sets and Tuples**: Learning to effectively use sets and tuples for various tasks.
 - **Creating and Modifying Dictionaries**: Building dictionaries and manipulating their elements.
 - **Practice Task - Filtering Lists of Dictionaries**: Applying techniques to filter and process lists containing dictionaries.
