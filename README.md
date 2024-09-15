@@ -1,5 +1,5 @@
 <p style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/byl-bill-hitchen-029876323/" target="_blank">
+  <a href="https://www.linkedin.com/in/byl-bill-hitchen-029876323/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/BylHitchen/Portfolio/blob/main/IMG_5781.jpg?raw=true" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 15px;">
   </a>
   <span style="font-size: 20px; font-weight: bold;">Byl(Bill) Hitchen</span>
