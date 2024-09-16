@@ -9,10 +9,8 @@ Hello! I’m Bill. While my full name might be a bit of a mouthful (yes it has n
 
 I’m committed to advancing my skills and becoming proficient in data analysis. I invite you to follow my progress and stay tuned for updates. If you’d like to learn more about me, click on my profile picture to visit my LinkedIn page. Thank you for your time and support!
 
-# Projects
-As I’m currently navigating the world of data analysis through Coursera courses, you will primarily find projects here that reflect the foundational skills I’ve acquired so far. These projects are designed to showcase the learnings I’ve already absorbed.
-
-As my expertise grows and I delve deeper into more advanced topics, I’ll be rolling out my own original projects for everyone to explore. There’s a lot more to come as I transition from a learner to a data enthusiast.
+# Learning Experiences
+As I’m currently navigating the world of data analysis through Coursera courses, you will primarily find projects here that reflect the foundational skills I’ve acquired so far. As my expertise grows and I delve deeper into more advanced topics, I’ll be rolling out my own original projects for everyone to explore. There’s a lot more to come as I transition from a learner to a data enthusiast.
 
 Let’s get started!
 
