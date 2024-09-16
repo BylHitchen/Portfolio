@@ -26,8 +26,8 @@ Make visual adjustments to improve the readability of the worksheet and highligh
 SUMIF Function: Generate customized monthly totals for Quarter 1 across two business years.
 Percentage Difference Calculation: Determine the percentage change for each month in Quarter 1 of 2023 compared to the corresponding months in 2022.
 Logical Function: Evaluate order values to calculate and display the appropriate tax amount.
-
-
+![wrangled data](https://github.com/BylHitchen/Portfolio/blob/main/wrangle.JPG?raw=true)
+These tasks involved both formatting changes to enhance clarity and the use of specific formulas to analyse and compare business performance across the two years.
 
 
 
