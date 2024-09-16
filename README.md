@@ -17,6 +17,7 @@ Let’s get started!
 ### Wrangling data in Excel
 In the exercise I was tasked with applying a variety of formatting and calculation techniques that i have learned recently. My objective was to compile an executive summary showcasing the month-by-month profit margin performance for the first quarter of the current year, comparing it to the same period from the previous year.
 
+![unwrangled data](https://github.com/BylHitchen/Portfolio/blob/main/unwrangle.JPG?raw=true)
 
 
 
