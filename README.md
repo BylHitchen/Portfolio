@@ -20,8 +20,8 @@ In the exercise I was tasked with applying a variety of formatting and calculati
 ![unwrangled data](https://github.com/BylHitchen/Portfolio/blob/main/unwrangle.JPG?raw=true)
 
 The exercise required me to:
-# Apply Formatting: Make visual adjustments to improve the readability of the worksheet and highlight the results of the analysis effectively.
-# Use Formulas:
+#### Apply Formatting: Make visual adjustments to improve the readability of the worksheet and highlight the results of the analysis effectively.
+#### Use Formulas:
 SUMIF Function: Generate customized monthly totals for Quarter 1 across two business years.
 Percentage Difference Calculation: Determine the percentage change for each month in Quarter 1 of 2023 compared to the corresponding months in 2022.
 Logical Function: Evaluate order values to calculate and display the appropriate tax amount.
