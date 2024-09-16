@@ -29,6 +29,9 @@ Logical Function: Evaluate order values to calculate and display the appropriate
 ![wrangled data](https://github.com/BylHitchen/Portfolio/blob/main/wrangle.JPG?raw=true)
 These tasks involved both formatting changes to enhance clarity and the use of specific formulas to analyse and compare business performance across the two years.
 
+### Querying the top 1,000 richest people using SQL
+This dataset from Kaggle features the top 1,000 richest people globally, including details such as names, countries, industries, net worth (in billions), and associated companies. It is intended to analyse wealth distribution among billionaires and provide insights into the industries and regions that produce the wealthiest individuals.
+
 
 
 
