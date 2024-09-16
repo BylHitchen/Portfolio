@@ -42,10 +42,6 @@
     </p>
   </header>
   <main>
-    <!-- Main content of your page -->
-  </main>
-</body>
-</html>
 
 Hello! I’m Bill. While my full name might be a bit of a mouthful (yes it has no vowels) , feel free to call me Bill. I’m an aspiring data analyst dedicated to solving real-world problems through data analytics. Although I’m just starting my journey, i do have over 20 years of IT experience in the banking and outsourcing sector and very eager to pivot my knowledge and growth in the world of data.
 
@@ -57,18 +53,14 @@ As I’m currently navigating the world of data analysis through Coursera course
 As my expertise grows and I delve deeper into more advanced topics, I’ll be rolling out my own original projects for everyone to explore. There’s a lot more to come as I transition from a learner to a data enthusiast.
 
 Let’s get started!
+  </main>
+</body>
+</html>
 
 
-### Project 1 
-### Python for Beginners: Variables and Strings
 
-- **Understanding Python Lists**: Grasping the fundamentals of lists and their uses.
-- **Working with Python Sets and Tuples**: Learning to effectively use sets and tuples for various tasks.
-- **Creating and Modifying Dictionaries**: Building dictionaries and manipulating their elements.
-- **Practice Task - Filtering Lists of Dictionaries**: Applying techniques to filter and process lists containing dictionaries.
-- **Data Manipulation for Analysis**: Transforming and preparing data for comprehensive analysis.
-- **Visualizing Data with Python**: Utilising Python methods to create data visualizations.
-- **Challenge - Food Recommendations**: Applying learned concepts to develop a food recommendation system.
+
+
 
 
 
