@@ -36,7 +36,7 @@
   <header>
     <p>
       <a href="https://www.linkedin.com/in/byl-bill-h-029876323/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/BylH/Portfolio/blob/main/IMG_5781.jpg?raw=true" alt="Your Name">
+        <img src="https://github.com/BylHitchen/Portfolio/blob/main/IMG_5781.jpg?raw=true" alt="Your Name">
       </a>
       <span>Byl(Bill) H</span>
     </p>
