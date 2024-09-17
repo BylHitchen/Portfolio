@@ -43,8 +43,12 @@ Imagine sifting through options and stumble upon a list of laptops that fit comf
 You’re on a quest for raw performance. You discover the top 10 laptops with the highest CPU frequencies. As you compare the specs and prices, you make an informed decision about whether you should invest in that high-end model or if there's a more budget-friendly option that still offers great performance.
 ![sql2](https://github.com/BylHitchen/Portfolio/blob/main/sql2.JPG?raw=true)
 
-### 3.Evaluating Laptops with High-Resolution Screens
+#### 3.Evaluating Laptops with High-Resolution Screens
 For those who value high-resolution displays, it's essential to choose a laptop that provides a sharp and clear screen for optimal viewing.Here’s how you can find laptops with the highest screen resolutions:
+![sql3](https://github.com/BylHitchen/Portfolio/blob/main/sql3.JPG?raw=true)
+
+#### 4.Finding Lightweight Ultrabooks
+You’re packing for a trip and need the lightest laptop possible. The query gives you a list of the top 5 lightest ultrabooks, making it easy to pick the one that will be the most convenient to carry around.
 
 
 
