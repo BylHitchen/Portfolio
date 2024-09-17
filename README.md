@@ -32,6 +32,8 @@ These tasks involved both formatting changes to enhance clarity and the use of s
 ### Querying laptop prices using MySQL Workbench
 I will be querying laptop prices from a dataset available on Kaggle. The dataset includes a single table with 23 columns. 
 
+
+
 Below are some examples:
 #### 1.Finding the Best Deal within Your Budget
 Imagine sifting through options and stumble upon a list of laptops that fit comfortably within your €800-€1000 budget. The results are sorted from the cheapest to the most expensive, so you can see which one gives you the most value for your money.
