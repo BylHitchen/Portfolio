@@ -55,7 +55,7 @@ I am packing for a trip and need the lightest laptop possible. The query gives m
 I'm a GAMER!!! and i need to upgrade my gaming setup, I used this query to identify laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, I can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
 ![sql5](https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true)
 
-### PowerBI - Data Visualisation
+### MS PowerBI - Data Visualisation
 The techniques I tested using Power BI with a sales dataset of classic vehicles:
 * Design Overview Cards: Developed summary cards to provide quick insights.
 * Generate Overview Line Charts: Created line charts to visualize trends over time.
