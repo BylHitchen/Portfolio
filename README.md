@@ -32,7 +32,7 @@ These tasks involved both formatting changes to enhance clarity and the use of s
 ### Querying laptop prices using MySQL Workbench
 I will be querying laptop prices from a dataset available on Kaggle. The dataset includes a single table with 23 columns. 
 
-
+![dataset](https://github.com/BylHitchen/Portfolio/blob/main/sqlport.JPG?raw=true)
 
 Below are some examples:
 #### 1.Finding the Best Deal within Your Budget
