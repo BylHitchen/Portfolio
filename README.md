@@ -15,7 +15,7 @@ As I’m currently navigating the world of data analysis through Coursera course
 Let’s get started!
 
 ### Wrangling data in Excel
-In the exercise I was tasked with applying a variety of formatting and calculation techniques that i have learned recently. My objective was to compile an executive summary showcasing the month-by-month profit margin performance for the first quarter of the current year, comparing it to the same period from the previous year.
+In this exercise I was tasked with applying a variety of formatting and calculation techniques that i have learned recently. My objective was to compile an executive summary showcasing the month-by-month profit margin performance for the first quarter of the current year, comparing it to the same period from the previous year.
 
 ![unwrangled data](https://github.com/BylHitchen/Portfolio/blob/main/unwrangle.JPG?raw=true)
 
@@ -36,15 +36,15 @@ I will be querying laptop prices from a dataset available on Kaggle. The dataset
 
 Below are some examples:
 #### 1.Finding the Best Deal within Your Budget
-Im on a budget but I stumble upon a list of laptops that fit comfortably within my €800-€1000 budget. The results are sorted from the cheapest to the most expensive, so I can see which one gives me the most value for my money.
+I stumble upon a list of laptops that fit comfortably within my €800-€1000 budget. The results are sorted from the cheapest to the most expensive, so I can see which one gives me the most value for my money.
 ![bestdeal](https://github.com/BylHitchen/Portfolio/blob/main/sql1.JPG?raw=true)
 
 #### 2.Comparing Performance Across Brands
-I need POWER!. I discover the top 10 laptops with the highest CPU frequencies. As I compare the specs and prices, I make an informed decision about whether I should invest in that high-end model or if there's a more budget-friendly option that still offers great performance.
+I discover the top 10 laptops with the highest CPU frequencies. As I compare the specs and prices, I make an informed decision about whether I should invest in that high-end model or if there's a more budget-friendly option that still offers great performance.
 ![sql2](https://github.com/BylHitchen/Portfolio/blob/main/sql2.JPG?raw=true)
 
 #### 3.Evaluating Laptops with High-Resolution Screens
-High-resolution displays is a must, it's essential to choose a laptop that provides a sharp and clear screen for optimal viewing.Here’s how I can find laptops with the highest screen resolutions:
+High-resolution displays is a must, it's essential to choose a laptop that provides a sharp and clear screen for optimal viewing. Here’s how I can find laptops with the highest screen resolutions:
 ![sql3](https://github.com/BylHitchen/Portfolio/blob/main/sql3.JPG?raw=true)
 
 #### 4.Finding Lightweight Ultrabooks
@@ -52,19 +52,19 @@ I am packing for a trip and need the lightest laptop possible. The query gives m
 ![sql4](https://github.com/BylHitchen/Portfolio/blob/main/sql4.JPG?raw=true)
 
 #### 5.Identifying Laptops with the Best GPU for Gaming (Nvidia vs AMD)
-I'm a GAMER!!! and i need to upgrade my gaming setup, I used this query to identify laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, I can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
+I used this query to identify laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, I can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
 ![sql5](https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true)
 
-### MS PowerBI - Data Visualisation
+### MicroSoft PowerBI - Data Visualisation
 The techniques I tested using Power BI with a sales dataset of classic vehicles:
 * Design Overview Cards: Developed summary cards to provide quick insights.
-* Generate Overview Line Charts: Created line charts to visualize trends over time.
-* Implement Measures for Sales and Net Profit: Set up calculations to track sales and net profit figures.
-* Add Actions to Buttons and Develop Bar Charts: Configured buttons to perform actions and created bar charts for data visualization.
-* Create Scatter, Column, and Donut Charts: Developed various chart types, including scatter, column, and donut charts, to analyze data from different perspectives.
-* Incorporate Conditional Titles in Charts: Added dynamic titles to charts based on specific conditions.
-* Build a Decomposition Tree: Constructed a decomposition tree to break down data into more detailed components.
-* Apply Filters and Navigation Buttons: Implemented filters and navigation buttons for enhanced data exploration and user interaction.
+* Created line charts to visualise trends over time.
+* Set up calculations to track sales and net profit figures.
+* Configured buttons to perform actions and created bar charts for data visualisation.
+* Developed various chart types, including scatter, column, and donut charts, to analyse data from different perspectives.
+* Added dynamic titles to charts based on specific conditions.
+* Constructed a decomposition tree to break down data into more detailed components.
+* Implemented navigation buttons for enhanced data exploration and user interaction.
 
 <video width="400" height="400" controls>
   <source src="https://github.com/BylHitchen/Portfolio/blob/main/navigation.mp4" type="video/mp4">
