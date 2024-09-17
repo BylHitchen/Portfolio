@@ -53,7 +53,7 @@ You’re packing for a trip and need the lightest laptop possible. The query giv
 
 #### 5.Identifying Laptops with the Best GPU for Gaming (Nvidia vs AMD)
 For those looking to upgrade their gaming setup, this query identifies laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, users can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
-
+![sql5](https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true)
 
 
 
