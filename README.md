@@ -48,7 +48,8 @@ For those who value high-resolution displays, it's essential to choose a laptop 
 ![sql3](https://github.com/BylHitchen/Portfolio/blob/main/sql3.JPG?raw=true)
 
 #### 4.Finding Lightweight Ultrabooks
-You’re packing for a trip and need the lightest laptop possible. The query gives you a list of the top 5 lightest ultrabooks, making it easy to pick the one that will be the most convenient to carry around.
+You’re packing for a trip and need the lightest laptop possible. The query gives you a list of the top 10 lightest ultrabooks, making it easy to pick the one that will be the most convenient to carry around.
+![sql4](https://github.com/BylHitchen/Portfolio/blob/main/sql4.JPG?raw=true)
 
 
 
