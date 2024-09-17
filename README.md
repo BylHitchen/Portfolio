@@ -66,7 +66,7 @@ The techniques I tested using Power BI with a sales dataset of classic vehicles:
 * Build a Decomposition Tree: Constructed a decomposition tree to break down data into more detailed components.
 * Apply Filters and Navigation Buttons: Implemented filters and navigation buttons for enhanced data exploration and user interaction.
 
-<video width="540" height="260" controls>
+<video width="440" height="160" controls>
   <source src="https://github.com/BylHitchen/Portfolio/blob/main/navigation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
