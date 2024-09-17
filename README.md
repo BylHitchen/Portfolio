@@ -30,11 +30,16 @@ Logical Function: Evaluate order values to calculate and display the appropriate
 These tasks involved both formatting changes to enhance clarity and the use of specific formulas to analyse and compare business performance across the two years.
 
 ### Querying laptop prices using MySQL Workbench
-I will be querying laptop prices from a dataset available on Kaggle. The dataset includes a single table with 23 columns. Below are some examples:
+I will be querying laptop prices from a dataset available on Kaggle. The dataset includes a single table with 23 columns. 
 
+Below are some examples:
 #### 1.Finding the Best Deal within Your Budget
 Imagine sifting through options and stumble upon a list of laptops that fit comfortably within your €800-€1000 budget. The results are sorted from the cheapest to the most expensive, so you can see which one gives you the most value for your money.
 ![bestdeal](https://github.com/BylHitchen/Portfolio/blob/main/sql1.JPG?raw=true)
+
+#### 2.Comparing Performance Across Brands
+You’re on a quest for raw performance. You discover the top 10 laptops with the highest CPU frequencies. As you compare the specs and prices, you make an informed decision about whether you should invest in that high-end model or if there's a more budget-friendly option that still offers great performance.
+
 
 
 
