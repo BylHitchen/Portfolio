@@ -32,7 +32,7 @@ These tasks involved both formatting changes to enhance clarity and the use of s
 ### Querying the top 1,000 richest people using MySQL Workbench
 This dataset from Kaggle features the top 1,000 richest people globally, including details such as names, countries, industries, net worth (in billions), and associated companies. It is intended to analyse wealth distribution among billionaires and provide insights into the industries and regions that produce the wealthiest individuals.
 
-#### Querying Top 10 wealthiest people by Industry
+#### 1.Querying Top 10 wealthiest people by Industry
 ![sql1](https://github.com/BylHitchen/Portfolio/blob/main/sqltop10industry.JPG?raw=true)
 
 
