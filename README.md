@@ -52,7 +52,7 @@ I am packing for a trip and need the lightest laptop possible. The query gives m
 ![sql4](https://github.com/BylHitchen/Portfolio/blob/main/sql4.JPG?raw=true)
 
 #### 5.Identifying Laptops with the Best GPU for Gaming (Nvidia vs AMD)
-For those looking to upgrade their gaming setup, I used this query to identify laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, I can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
+I'm a GAMER!!! and i need to upgrade my gaming setup, I used this query to identify laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, I can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
 ![sql5](https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true)
 
 ### PowerBI - Data Visualisation
