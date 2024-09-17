@@ -36,24 +36,35 @@ I will be querying laptop prices from a dataset available on Kaggle. The dataset
 
 Below are some examples:
 #### 1.Finding the Best Deal within Your Budget
-Imagine sifting through options and stumble upon a list of laptops that fit comfortably within your €800-€1000 budget. The results are sorted from the cheapest to the most expensive, so you can see which one gives you the most value for your money.
+Im on a budget but I stumble upon a list of laptops that fit comfortably within my €800-€1000 budget. The results are sorted from the cheapest to the most expensive, so I can see which one gives me the most value for my money.
 ![bestdeal](https://github.com/BylHitchen/Portfolio/blob/main/sql1.JPG?raw=true)
 
 #### 2.Comparing Performance Across Brands
-You’re on a quest for raw performance. You discover the top 10 laptops with the highest CPU frequencies. As you compare the specs and prices, you make an informed decision about whether you should invest in that high-end model or if there's a more budget-friendly option that still offers great performance.
+I need POWER!. I discover the top 10 laptops with the highest CPU frequencies. As I compare the specs and prices, I make an informed decision about whether I should invest in that high-end model or if there's a more budget-friendly option that still offers great performance.
 ![sql2](https://github.com/BylHitchen/Portfolio/blob/main/sql2.JPG?raw=true)
 
 #### 3.Evaluating Laptops with High-Resolution Screens
-For those who value high-resolution displays, it's essential to choose a laptop that provides a sharp and clear screen for optimal viewing.Here’s how you can find laptops with the highest screen resolutions:
+High-resolution displays is a must, it's essential to choose a laptop that provides a sharp and clear screen for optimal viewing.Here’s how I can find laptops with the highest screen resolutions:
 ![sql3](https://github.com/BylHitchen/Portfolio/blob/main/sql3.JPG?raw=true)
 
 #### 4.Finding Lightweight Ultrabooks
-You’re packing for a trip and need the lightest laptop possible. The query gives you a list of the top 10 lightest ultrabooks, making it easy to pick the one that will be the most convenient to carry around.
+I am packing for a trip and need the lightest laptop possible. The query gives me a list of the top 10 lightest ultrabooks, making it easy to pick the one that will be the most convenient to carry around.
 ![sql4](https://github.com/BylHitchen/Portfolio/blob/main/sql4.JPG?raw=true)
 
 #### 5.Identifying Laptops with the Best GPU for Gaming (Nvidia vs AMD)
-For those looking to upgrade their gaming setup, this query identifies laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, users can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
+For those looking to upgrade their gaming setup, I used this query to identify laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, I can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
 ![sql5](https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true)
+
+### PowerBI - Data Visualisation
+The techniques I tested using Power BI with a sales dataset of classic vehicles:
+* Design Overview Cards: Developed summary cards to provide quick insights.
+* Generate Overview Line Charts: Created line charts to visualize trends over time.
+* Implement Measures for Sales and Net Profit: Set up calculations to track sales and net profit figures.
+* Add Actions to Buttons and Develop Bar Charts: Configured buttons to perform actions and created bar charts for data visualization.
+* Create Scatter, Column, and Donut Charts: Developed various chart types, including scatter, column, and donut charts, to analyze data from different perspectives.
+* Incorporate Conditional Titles in Charts: Added dynamic titles to charts based on specific conditions.
+* Build a Decomposition Tree: Constructed a decomposition tree to break down data into more detailed components.
+* Apply Filters and Navigation Buttons: Implemented filters and navigation buttons for enhanced data exploration and user interaction.
 
 
 
