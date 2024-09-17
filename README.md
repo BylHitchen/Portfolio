@@ -29,11 +29,12 @@ Logical Function: Evaluate order values to calculate and display the appropriate
 ![wrangled data](https://github.com/BylHitchen/Portfolio/blob/main/wrangle.JPG?raw=true)
 These tasks involved both formatting changes to enhance clarity and the use of specific formulas to analyse and compare business performance across the two years.
 
-### Querying the top 1,000 richest people using MySQL Workbench
-This dataset from Kaggle features the top 1,000 richest people globally, including details such as names, countries, industries, net worth (in billions), and associated companies. It is intended to analyse wealth distribution among billionaires and provide insights into the industries and regions that produce the wealthiest individuals.
+### Querying laptop prices using MySQL Workbench
+I will be querying laptop prices from a dataset available on Kaggle. The dataset includes a single table with 23 columns. Below are some examples:
 
-#### 1.Querying Top 10 wealthiest people by Industry
-![sql1](https://github.com/BylHitchen/Portfolio/blob/main/sqltop10industry.JPG?raw=true)
+#### 1.Finding the Best Deal within Your Budget
+Imagine sifting through options and stumble upon a list of laptops that fit comfortably within your €600-€1000 budget. The results are sorted from the cheapest to the most expensive, so you can see which one gives you the most value for your money.
+
 
 
 
