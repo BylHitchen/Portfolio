@@ -51,6 +51,8 @@ For those who value high-resolution displays, it's essential to choose a laptop 
 You’re packing for a trip and need the lightest laptop possible. The query gives you a list of the top 10 lightest ultrabooks, making it easy to pick the one that will be the most convenient to carry around.
 ![sql4](https://github.com/BylHitchen/Portfolio/blob/main/sql4.JPG?raw=true)
 
+#### 5.Identifying Laptops with the Best GPU for Gaming (Nvidia vs AMD)
+For those looking to upgrade their gaming setup, this query identifies laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, users can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
 
 
 
