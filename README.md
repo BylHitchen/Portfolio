@@ -71,9 +71,8 @@ The techniques I tested using Power BI with a sales dataset of classic vehicles:
 
 * Implemented navigation buttons for enhanced data exploration and user interaction.
 
-<video width="400" controls>
-  <source src="https://github.com/BylHitchen/Portfolio/blob/main/pbi.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video controls="" width="400" height="400" muted="" loop="" autoplay="">
+<source src="https://github.com/BylHitchen/Portfolio/blob/main/pbi.mp4" type="video/mp4">
 </video>
 
 
