@@ -74,8 +74,22 @@ The techniques I tested using Power BI with a sales dataset of classic vehicles:
 <source src="https://github.com/BylHitchen/Portfolio/raw/main/pbi.mp4" type="video/mp4">
 </video>
 
+### <u>Tableau - Data Visualisation</u>
 
+I recently explored a dataset comparing Electric Vehicles and Hybrids, and it was fascinating to see how these cars are really gaining traction in the USA—especially in Washington state.
+* Started by creating a bar chart to showcase the growing popularity of these vehicles. The data really jumped off the page
+* Next up, I built a map to highlight where these cars are most common. It was clear that Washington is leading the way, shining brightly in the data.
+* I then focused on the top 10 counties (the dataset was heavily biased to Washigton State counties in the USA) for electric vehicle adoption and created a column chart.
+* After that, I put together a column chart comparing various makes and models. I added a bit of interactivity with parameters, allowing for some fun exploration of the data.
+* Adding a donut chart to visualise market shares. It added a nice visual to the dashboard and made the info easy to grasp.
+* With all the pieces ready, I assembled a dashboard that brought everything together. It’s exciting to see how well these visuals can tell a story.
+* I spent some time formatting the dashboard to make sure it looked sharp. A polished presentation really makes a difference
 
+<video controls="" width="400" height="400" muted="" loop="" autoplay="">
+<source src="https://github.com/BylHitchen/Portfolio/raw/main/pbi.mp4" type="video/mp4">
+</video>
+
+Overall, it was a rewarding experience to visualise the growing interest in electric and hybrid vehicles. 
 
 
 
