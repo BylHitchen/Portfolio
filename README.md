@@ -56,7 +56,7 @@ I used this query to identify laptops featuring high-performance GPUs from both 
 ![sql5](https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true)
 
 ### MicroSoft PowerBI - Data Visualisation
-![bi](https://github.com/BylHitchen/Portfolio/blob/main/PBI1.JPG)
+![bi](https://github.com/BylHitchen/Portfolio/blob/main/PBI1.JPG?raw=true)
 The techniques I tested using Power BI with a sales dataset of classic vehicles:
 * Design Overview Cards: Developed summary cards to provide quick insights.
 * Created line charts to visualise trends over time.
@@ -65,6 +65,7 @@ The techniques I tested using Power BI with a sales dataset of classic vehicles:
 * Developed various chart types, including scatter, column, and donut charts, to analyse data from different perspectives.
 * Added dynamic titles to charts based on specific conditions.
 * Constructed a decomposition tree to break down data into more detailed components.
+![bi2](https://github.com/BylHitchen/Portfolio/blob/main/PBI2.JPG?raw=true)
 * Implemented navigation buttons for enhanced data exploration and user interaction.
 <video width="400" height="400" controls>
   <source src="https://github.com/BylHitchen/Portfolio/blob/main/pbi.mp4" type="video/mp4">
