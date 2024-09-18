@@ -71,10 +71,7 @@ The techniques I tested using Power BI with a sales dataset of classic vehicles:
 
 * Implemented navigation buttons for enhanced data exploration and user interaction.
 
-<video>
-  <source src="https://github.com/BylHitchen/Portfolio/blob/main/pbi.mp4" type="video/mp4">
-  <p>Microsoft PowerBI</p>
-</video>
+<source src="https://github.com/BylHitchen/Portfolio/blob/main/pbi.mp4" type="video/mp4">
 
 
 
