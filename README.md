@@ -56,7 +56,6 @@ I used this query to identify laptops featuring high-performance GPUs from both 
 ![sql5](https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true)
 
 ### <u>MicroSoft PowerBI - Data Visualisation</u>
-![bi](https://github.com/BylHitchen/Portfolio/blob/main/PBI1.JPG?raw=true)
 
 The techniques I tested using Power BI with a sales dataset of classic vehicles:
 * Design Overview Cards: Developed summary cards to provide quick insights.
@@ -66,9 +65,6 @@ The techniques I tested using Power BI with a sales dataset of classic vehicles:
 * Developed various chart types, including scatter, column, and donut charts, to analyse data from different perspectives.
 * Added dynamic titles to charts based on specific conditions.
 * Constructed a decomposition tree to break down data into more detailed components.
-
-![bi2](https://github.com/BylHitchen/Portfolio/blob/main/PBI2.JPG?raw=true)
-
 * Implemented navigation buttons for enhanced data exploration and user interaction.
 <video controls="" width="400" height="400" muted="" loop="" autoplay="">
 <source src="https://github.com/BylHitchen/Portfolio/raw/main/pbi.mp4" type="video/mp4">
@@ -84,11 +80,9 @@ I recently explored a dataset comparing Electric Vehicles and Hybrids, and it wa
 * Adding a donut chart to visualise market shares. It added a nice visual to the dashboard and made the info easy to grasp.
 * With all the pieces ready, I assembled a dashboard that brought everything together. It’s exciting to see how well these visuals can tell a story.
 * I spent some time formatting the dashboard to make sure it looked sharp. A polished presentation really makes a difference
-
 <video controls="" width="400" height="400" muted="" loop="" autoplay="">
 <source src="https://github.com/BylHitchen/Portfolio/raw/main/Tableau.mp4" type="video/mp4">
 </video>
-
 Overall, it was a rewarding experience to visualise the growing interest in electric and hybrid vehicles. 
 
 
