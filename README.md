@@ -14,7 +14,7 @@ As I’m currently navigating the world of data analysis through Coursera course
 
 Let’s get started!
 
-### Wrangling data in Excel
+### <u>Wrangling data in Excel</u>
 In this exercise I was tasked with applying a variety of formatting and calculation techniques that i have learned recently. My objective was to compile an executive summary showcasing the month-by-month profit margin performance for the first quarter of the current year, comparing it to the same period from the previous year.
 
 ![unwrangled data](https://github.com/BylHitchen/Portfolio/blob/main/unwrangle.JPG?raw=true)
@@ -29,7 +29,7 @@ Logical Function: Evaluate order values to calculate and display the appropriate
 ![wrangled data](https://github.com/BylHitchen/Portfolio/blob/main/wrangle.JPG?raw=true)
 These tasks involved both formatting changes to enhance clarity and the use of specific formulas to analyse and compare business performance across the two years.
 
-### Querying laptop prices using MySQL Workbench
+### <u>Querying laptop prices using MySQL Workbench</u>
 I will be querying laptop prices from a dataset available on Kaggle. The dataset includes a single table with 23 columns. 
 
 ![dataset](https://github.com/BylHitchen/Portfolio/blob/main/sqlport.JPG?raw=true)
@@ -55,7 +55,7 @@ I am packing for a trip and need the lightest laptop possible. The query gives m
 I used this query to identify laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, I can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
 ![sql5](https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true)
 
-### MicroSoft PowerBI - Data Visualisation
+### <u>MicroSoft PowerBI - Data Visualisation</u>
 ![bi](https://github.com/BylHitchen/Portfolio/blob/main/PBI1.JPG?raw=true)
 
 The techniques I tested using Power BI with a sales dataset of classic vehicles:
