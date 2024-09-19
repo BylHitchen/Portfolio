@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      <section>
+<p>Hello! I’m Bill. While my full name might be a bit of a mouthful (yes it has no vowels) , feel free to call me Bill. I’m an aspiring data analyst dedicated to solving real-world problems through data analytics. Although I’m just starting my journey, i do have over 20 years of IT experience in the banking and outsourcing sector and very eager to pivot my knowledge and growth in the world of data.</p>
+
+<p>I invite you to follow my progress and stay tuned for updates. If you’d like to learn more about me, click on my profile picture to visit my LinkedIn page. Thank you for your time and support!</p>
+
+<h1 id="learning-experiences">Learning Experiences</h1>
+<p>As I’m currently navigating the world of data analysis through Coursera courses, you will primarily find projects here that reflect the foundational skills I’ve acquired so far. As my expertise grows and I delve deeper into more advanced topics, I’ll be rolling out my own original projects for everyone to explore. There’s a lot more to come as I transition from a learner to a data enthusiast.</p>
+
+<p>Let’s get started!</p>
+
+<h3 id="wrangling-data-in-excel"><u>Wrangling data in Excel</u></h3>
+<p>In this exercise I was tasked with applying a variety of formatting and calculation techniques that i have learned recently. My objective was to compile an executive summary showcasing the month-by-month profit margin performance for the first quarter of the current year, comparing it to the same period from the previous year.</p>
+
+<p><img src="https://github.com/BylHitchen/Portfolio/blob/main/unwrangle.JPG?raw=true" alt="unwrangled data" /></p>
+
+<p>The exercise required me to:</p>
+<h4 id="apply-formatting">Apply Formatting:</h4>
+<p>Make visual adjustments to improve the readability of the worksheet and highlight the results of the analysis effectively.</p>
+<h4 id="use-formulas">Use Formulas:</h4>
+<p>SUMIF Function: Generate customized monthly totals for Quarter 1 across two business years.
+Percentage Difference Calculation: Determine the percentage change for each month in Quarter 1 of 2023 compared to the corresponding months in 2022.
+Logical Function: Evaluate order values to calculate and display the appropriate tax amount.
+<img src="https://github.com/BylHitchen/Portfolio/blob/main/wrangle.JPG?raw=true" alt="wrangled data" />
+These tasks involved both formatting changes to enhance clarity and the use of specific formulas to analyse and compare business performance across the two years.</p>
+
+<h3 id="querying-laptop-prices-using-mysql-workbench"><u>Querying laptop prices using MySQL Workbench</u></h3>
+<p>I will be querying laptop prices from a dataset available on Kaggle. The dataset includes a single table with 23 columns.</p>
+
+<p><img src="https://github.com/BylHitchen/Portfolio/blob/main/sqlport.JPG?raw=true" alt="dataset" /></p>
+
+<p>Below are some examples:</p>
+<h4 id="1finding-the-best-deal-within-your-budget">1.Finding the Best Deal within Your Budget</h4>
+<p>I stumble upon a list of laptops that fit comfortably within my €800-€1000 budget. The results are sorted from the cheapest to the most expensive, so I can see which one gives me the most value for my money.
+<img src="https://github.com/BylHitchen/Portfolio/blob/main/sql1.JPG?raw=true" alt="bestdeal" /></p>
+
+<h4 id="2comparing-performance-across-brands">2.Comparing Performance Across Brands</h4>
+<p>I discover the top 10 laptops with the highest CPU frequencies. As I compare the specs and prices, I make an informed decision about whether I should invest in that high-end model or if there’s a more budget-friendly option that still offers great performance.
+<img src="https://github.com/BylHitchen/Portfolio/blob/main/sql2.JPG?raw=true" alt="sql2" /></p>
+
+<h4 id="3evaluating-laptops-with-high-resolution-screens">3.Evaluating Laptops with High-Resolution Screens</h4>
+<p>High-resolution displays is a must, it’s essential to choose a laptop that provides a sharp and clear screen for optimal viewing. Here’s how I can find laptops with the highest screen resolutions:
+<img src="https://github.com/BylHitchen/Portfolio/blob/main/sql3.JPG?raw=true" alt="sql3" /></p>
+
+<h4 id="4finding-lightweight-ultrabooks">4.Finding Lightweight Ultrabooks</h4>
+<p>I am packing for a trip and need the lightest laptop possible. The query gives me a list of the top 10 lightest ultrabooks, making it easy to pick the one that will be the most convenient to carry around.
+<img src="https://github.com/BylHitchen/Portfolio/blob/main/sql4.JPG?raw=true" alt="sql4" /></p>
+
+<h4 id="5identifying-laptops-with-the-best-gpu-for-gaming-nvidia-vs-amd">5.Identifying Laptops with the Best GPU for Gaming (Nvidia vs AMD)</h4>
+<p>I used this query to identify laptops featuring high-performance GPUs from both Nvidia and AMD. By examining the sorted results, I can discover which models provide the best gaming experience. The query prioritises Nvidia GPUs, reflecting a preference for Nvidia’s performance capabilities.
+<img src="https://github.com/BylHitchen/Portfolio/blob/main/sql5.JPG?raw=true" alt="sql5" /></p>
+
+<h3 id="microsoft-powerbi---data-visualisation"><u>MicroSoft PowerBI - Data Visualisation</u></h3>
+
+<p>The techniques I tested using Power BI with a sales dataset of classic vehicles:</p>
+<ul>
+  <li>Design Overview Cards: Developed summary cards to provide quick insights.</li>
+  <li>Created line charts to visualise trends over time.</li>
+  <li>Set up calculations to track sales and net profit figures.</li>
+  <li>Configured buttons to perform actions and created bar charts for data visualisation.</li>
+  <li>Developed various chart types, including scatter, column, and donut charts, to analyse data from different perspectives.</li>
+  <li>Added dynamic titles to charts based on specific conditions.</li>
+  <li>Constructed a decomposition tree to break down data into more detailed components.</li>
+  <li>Implemented navigation buttons for enhanced data exploration and user interaction.</li>
+</ul>
+<video controls="" width="400" height="400" muted="" loop="" autoplay="">
+<source src="https://github.com/BylHitchen/Portfolio/raw/main/pbi.mp4" type="video/mp4" />
+</video>
+
+<h3 id="tableau---data-visualisation"><u>Tableau - Data Visualisation</u></h3>
+
+<p>I recently explored a dataset comparing Electric Vehicles and Hybrids, and it was fascinating to see how these cars are really gaining traction in the USA—especially in Washington state.</p>
+<ul>
+  <li>Created a bar chart to showcase the growing popularity of these vehicles.</li>
+  <li>Next up, I built a map to highlight where these cars are most common. It was clear that Washington is leading the way.</li>
+  <li>I then focused on the top 10 counties (the dataset was heavily biased to Washigton State counties in the USA) for electric vehicle adoption and created a column chart.</li>
+  <li>After that, I put together a column chart comparing various makes and models. I added a bit of interactivity with parameters, allowing for some fun exploration of the data.</li>
+  <li>Adding a donut chart to visualise market shares. It added a nice visual to the dashboard and made the info easy to grasp.</li>
+  <li>With all the pieces ready, I assembled a dashboard that brought everything together. It’s exciting to see how well these visuals can tell a story.</li>
+</ul>
+<video controls="" width="400" height="400" muted="" loop="" autoplay="">
+<source src="https://github.com/BylHitchen/Portfolio/raw/main/Tableau.mp4" type="video/mp4" />
+</video>
+<p>Overall, it was a rewarding experience to visualise the growing interest in electric and hybrid vehicles.</p>
+
+<h3 id="python"><u>Python</u></h3>
+
+<p>In this Jupyter Notebook, I executed a series of queries on a dataset containing Google stock prices. With limited experience in Python, I am actively working to enhance my skills in the language. I began by loading the dataset and providing an overview of its structure. Subsequently, I queried the dataset to determine its dimensions, specifically the number of rows and columns. I then calculated the average closing price of Google stock throughout the dataset. Finally, I assessed the percentage change in the closing price from five years ago to the present.</p>
+
+<p><img src="https://github.com/BylHitchen/Portfolio/blob/main/googlestock.JPG?raw=true" alt="python" /></p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+
+      </section>
+</html>
