@@ -5,7 +5,7 @@
   <span style="font-size: 20px; font-weight: bold;">Byl(Bill) Hitchen</span>
 </p>
 
-Hello! I’m Bill. While my full name might be a bit of a mouthful (yes it has no vowels) , feel free to call me Bill. I’m an aspiring data analyst dedicated to solving real-world problems through data analytics. Although I’m just starting my journey, i do have over 20 years of IT experience in the banking and outsourcing sector and very eager to pivot my knowledge and growth in the world of data.
+Hello! I’m Bill. While my full name might be a bit of a mouthful (yes it has no vowels) , feel free to call me Bill. I’m an aspiring data analyst dedicated to solving real-world problems through data analytics. Although I’m just starting my journey, i do have over 20 years of IT experience in the banking and outsourcing sectors and very eager to pivot my knowledge and growth in the world of data.
 
 I invite you to follow my progress and stay tuned for updates. If you’d like to learn more about me, click on my profile picture to visit my LinkedIn page. Thank you for your time and support!
 
@@ -58,7 +58,7 @@ I used this query to identify laptops featuring high-performance GPUs from both 
 ### <u>MicroSoft PowerBI - Data Visualisation</u>
 
 The techniques I tested using Power BI with a sales dataset of classic vehicles:
-* Design Overview Cards: Developed summary cards to provide quick insights.
+* Developed summary cards to provide quick insights.
 * Created line charts to visualise trends over time.
 * Set up calculations to track sales and net profit figures.
 * Configured buttons to perform actions and created bar charts for data visualisation.
@@ -75,7 +75,7 @@ The techniques I tested using Power BI with a sales dataset of classic vehicles:
 I recently explored a dataset comparing Electric Vehicles and Hybrids, and it was fascinating to see how these cars are really gaining traction in the USA—especially in Washington state.
 * Created a bar chart to showcase the growing popularity of these vehicles.
 * Next up, I built a map to highlight where these cars are most common. It was clear that Washington is leading the way.
-* I then focused on the top 10 counties (the dataset was heavily biased to Washigton State counties in the USA) for electric vehicle adoption and created a column chart.
+* I then focused on the top 10 counties (the dataset was heavily biased to Washigton State in the USA) for electric vehicle adoption and created a column chart.
 * After that, I put together a column chart comparing various makes and models. I added a bit of interactivity with parameters, allowing for some fun exploration of the data.
 * Adding a donut chart to visualise market shares. It added a nice visual to the dashboard and made the info easy to grasp.
 * With all the pieces ready, I assembled a dashboard that brought everything together. It’s exciting to see how well these visuals can tell a story.
