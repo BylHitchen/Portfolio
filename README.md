@@ -88,6 +88,8 @@ Overall, it was a rewarding experience to visualise the growing interest in elec
 
 In this Jupyter Notebook, I performed a series of queries on a dataset of Google stock prices. Initially, I loaded the dataset and provided an overview of its contents. Next, I queried the dataset to obtain information regarding its dimensions, specifically the number of rows and columns. Following that, I calculated the average closing price of Google stock over the entire period covered in the dataset. Finally, I computed the percentage change in the closing price from five years ago to the present.
 
+![python](https://github.com/BylHitchen/Portfolio/blob/main/googlestock.JPG?raw=true)
+
 
 
 
